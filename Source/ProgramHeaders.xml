@@ -66,25 +66,6 @@
       <SourceFileTimeStamp _date="738908" _time="38008" date="23/01/2024" time="10:33:28"/>
     </Program>
     <Program>
-      <Header Description="Browse - std" ISN_2="1" LastIsn="1" id="67108868">
-        <LastModified _date="738908" _time="57958" date="23/01/2024" time="16:05:58"/>
-        <ExecutionRight comp="-1"/>
-        <Resident val="N"/>
-        <SQL val="N"/>
-        <ReturnValue>
-          <ReturnValueAttr/>
-          <ParametersAttributes/>
-        </ReturnValue>
-        <SqlWhereExist val="N"/>
-        <TaskType val="O"/>
-        <External val="N"/>
-        <Offline val="N"/>
-        <FormType val="N"/>
-        <DotNetObjectExists val="N"/>
-      </Header>
-      <SourceFileTimeStamp _date="738908" _time="38158" date="23/01/2024" time="10:35:58"/>
-    </Program>
-    <Program>
       <Header Description="Browse - person" ISN_2="1" LastIsn="1" id="100663301">
         <LastModified _date="738908" _time="63477" date="23/01/2024" time="17:37:57"/>
         <ExecutionRight comp="-1"/>

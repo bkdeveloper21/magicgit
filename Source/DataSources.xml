@@ -18,7 +18,7 @@
  <DataSourceRepository>
   <DataObjects>
  
-<DataObject PhysicalName="std" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="67108866" name="std">
+<DataObject PhysicalName="std" Resident="N" UniqueISNConvState="12" data_source="mssql" id="67108866" name="std">
 
   <Encrypt val="N"/>
 
@@ -36,7 +36,7 @@
 
   <Position val="D"/>
 
-  <PositionIndex val="-2"/>
+  <PositionIndex val="67108865"/>
 
   <IndexesLastIsn val="1"/>
 
@@ -135,7 +135,7 @@
   <WebS/>
 
 </DataObject> 
-<DataObject PhysicalName="person" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="100663299" name="person">
+<DataObject PhysicalName="person" Resident="N" UniqueISNConvState="12" data_source="mssql" id="100663299" name="person">
 
   <Encrypt val="N"/>
 
@@ -153,7 +153,7 @@
 
   <Position val="D"/>
 
-  <PositionIndex val="-2"/>
+  <PositionIndex val="100663297"/>
 
   <IndexesLastIsn val="1"/>
 

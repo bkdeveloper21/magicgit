@@ -18,7 +18,7 @@
  <DataSourceRepository>
   <DataObjects>
  
-<DataObject PhysicalName="std" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="67108866" name="std" offset="228" length="3819"/> 
-<DataObject PhysicalName="person" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="100663299" name="person" offset="4048" length="2061"/>  </DataObjects>
+<DataObject PhysicalName="std" Resident="N" UniqueISNConvState="12" data_source="mssql" id="67108866" name="std" offset="228" length="3815"/> 
+<DataObject PhysicalName="person" Resident="N" UniqueISNConvState="12" data_source="mssql" id="100663299" name="person" offset="4044" length="2058"/>  </DataObjects>
  </DataSourceRepository>
- <LastModified val="31084020-88698014"/>  </Application>
+ <LastModified val="31084046-48852340"/>  </Application>
