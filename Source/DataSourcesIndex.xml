@@ -8,7 +8,7 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="1"/>
+  <LastIsn val="2"/>
 
   <LastIsnFolder val="0"/>
 
@@ -18,6 +18,6 @@
  <DataSourceRepository>
   <DataObjects>
  
-<DataObject PhysicalName="person" Resident="N" UniqueISNConvState="12" data_source="mssql" id="167772161" name="person" offset="228" length="2189"/>  </DataObjects>
+<DataObject PhysicalName="truck" Resident="N" UniqueISNConvState="12" data_source="mssql" id="2" name="truck" offset="228" length="2181"/>  </DataObjects>
  </DataSourceRepository>
- <LastModified val="31084048-151328335"/>  </Application>
+ <LastModified val="31084054106717310"/>  </Application>
